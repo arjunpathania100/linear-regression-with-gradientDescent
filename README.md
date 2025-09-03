@@ -1,1 +1,1 @@
-# implemented simple linear regression using the least squares method.
+# implemented simple linear regression using the gradient descent.
